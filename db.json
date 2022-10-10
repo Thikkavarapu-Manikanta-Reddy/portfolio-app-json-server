@@ -1,5 +1,4 @@
 {
-  "portfolio": {
     "page_colors": {
       "primary_color": "#5CDB95",
       "secondary_color": "#05386B",
@@ -213,5 +212,4 @@
       "#B09B71",
       "#92B4EC"
     ]
-  }
 }

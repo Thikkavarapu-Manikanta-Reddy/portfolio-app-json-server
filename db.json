@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "page_colors": {
+      "primary_color": "#5CDB95",
+      "secondary_color": "#05386B",
+      "tertiary_color": "#EDF5E1"
+    },
+    "device_sizes": {
+      "xs": "(max-width: 600px)",
+      "sm": "(max-width: 960px) and (min-width: 601px)",
+      "md": "(max-width: 1280px) and (min-width: 961px)",
+      "lg": "(max-width: 1920px) and (min-width: 1281px)",
+      "gtXs": "(min-width: 601px)",
+      "gtSm": "(min-width: 961px)",
+      "gtMd": "(min-width: 1281px)",
+      "gtLg": "(min-width: 1921px)"
+    },
+    "social_media": [
+      {
+        "link": "https://www.linkedin.com/in/manikanta-reddy-thikkavarapu",
+        "name": "LinkedIn"
+      },
+      {
+        "link": "https://github.com/Thikkavarapu-Manikanta-Reddy",
+        "name": "GitHub"
+      },
+      {
+        "link": "https://bitbucket.org/thikkavarapu_manikanta_reddy",
+        "name": "BitBucket"
+      },
+      {
+        "link": "https://www.instagram.com/tyson_mani",
+        "name": "Instagram"
+      },
+      {
+        "link": "https://twitter.com/tmanikantaredd8",
+        "name": "Twitter"
+      }
+    ],
+    "experience": {
+      "Reliance Retail": {
+        "title": "Software Engineer",
+        "company": "Reliance Retail",
+        "url": "https://relianceretail.com/",
+        "dateRange": "January 2022 - Present",
+        "data": [
+          "Worked on building a India’s largest ecommerce marketplace web application.",
+          "Created our own custom e-commerce theme web app by using one of the existing theme web apps provided by a platform in one of the subsidiary e-commerce company."
+        ]
+      },
+      "Ninjacart": {
+        "title": "Software Engineer",
+        "company": "Ninjacart",
+        "url": "https://www.ninjacart.in/",
+        "dateRange": "January 2020 - January 2022",
+        "data": [
+          "Built several responsive web apps, specifically, mobile view web apps, and integrated them with the mobile SDKs which will make the web apps behave like android applications.",
+          "Educated and conducted multiple hands-on workshops for many new employees regarding Core Javascript, Angular, and ReactJs.",
+          "Single-handedly developed UI for a microservice where HRs, PMs, and CEOs can communicate with multiple roles of employees, some of its main features like creating/editing notifications and mapping users to those notifications, providing training tasks for different titles of workers to understand the company and how it works.",
+          "Introduced a Live tracking feature in the already existing AppManagement UI, where we can track the live moment of the people.",
+          "Functioned as a UI developer on newly started B2C flows where will be supplying the vegetables, groceries directly to the customers home instead of CC’s, FC’s, MDC’s, MMDC’s.",
+          "Served as a Backend developer on one of the features in AppManagement microservice where we can move the mapped users between different app versions.",
+          "Configured on many frontend modules and also learned many web optimization techniques."
+        ]
+      },
+      "Class bridge": {
+        "title": "Front End Engineer",
+        "company": "Class bridge",
+        "url": "https://classbridge.herokuapp.com/",
+        "dateRange": "August 2019 - December 2019",
+        "data": [
+          "Class Bridge was a 3 people engineering team and has engineered Online Institution Management Portal.",
+          "Performed as an only Frontend developer where I developed many UI-rich modules that helped students, teachers, and Institute managers across many schools and colleges.",
+          "Some of its main features like creating institutes, classes and sections, teachers, students, exams, scheduling exams, timetables, live chat, and conducting online classes."
+        ]
+      },
+      "Ninjacart-Intern": {
+        "title": "Software Developer Intern",
+        "company": "Ninjacart",
+        "url": "https://www.ninjacart.in/",
+        "dateRange": "May 2019 - July 2019",
+        "data": [
+          "Solely developed UI for a microservice for managing different builds(versions) of mobile applications in people's mobile phones across different cities, facilities, and store levels.",
+          "These are some of its main features like releasing the apps, mapping users across different facilities, downloading the apps, checking the user-app-related details."
+        ]
+      },
+      "Virtusa": {
+        "title": "Software Developer Intern",
+        "company": "Virtusa",
+        "url": "https://www.virtusa.com/",
+        "dateRange": "November 2018 - December 2018",
+        "data": [
+          "Converted one of the old bank-related user interfaces into a new rich user interface using Angular and worked on writing APIs in that bank-related module using spring boot."
+        ]
+      },
+      "Legal Education Awareness Foundation": {
+        "title": "Software Developer Intern",
+        "company": "Legal Education Awareness Foundation",
+        "url": "https://leaftoday.com/",
+        "dateRange": "May 2018 - June 2018",
+        "data": [
+          "Worked as a Remote Intern on the frontend side of the responsive websites.",
+          "Involved in creating a consultancy and olympiad website for conducting olympiad exams for the students and both sites are hosted in Godaddy."
+        ]
+      }
+    },
+    "projects": [
+      {
+        "title": "Class bridge",
+        "description": "It's an Online Institution Management Portal. Some of its main features like creating institutes, classes and sections, teachers, students, exams, scheduling exams, timetables, live chat, and conducting online classes.",
+        "link": "https://classbridge.herokuapp.com/",
+        "techStack": [
+          "React",
+          "CSS",
+          "Nodejs"
+        ]
+      },
+      {
+        "title": "Splitter",
+        "description": "Built a website where splitting of expenses among groups of individuals can be done in an easier fashion.",
+        "link": "https://splitters.herokuapp.com/",
+        "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Splitter",
+        "techStack": [
+          "Angular",
+          "CSS",
+          "Nodejs"
+        ]
+      },
+      {
+        "title": "Website for Google Developer Student Club @ SASTRA (DSC)",
+        "description": "Built a website for the Developer student club (DSC) of my university.",
+        "link": "https://dsc-sastra.herokuapp.com/",
+        "techStack": [
+          "React",
+          "CSS",
+          "Nodejs"
+        ]
+      },
+      {
+        "title": "Exam Automata",
+        "description": "Built a website where anyone can host and conduct exams online and it’s still currently being used by some of the colleges in India like SASTRA, LPU, etc.",
+        "link": "https://examautomata.herokuapp.com/",
+        "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/examauto",
+        "techStack": [
+          "Angular",
+          "CSS",
+          "Firebase",
+          "Nodejs"
+        ]
+      },
+      {
+        "title": "Gamestore",
+        "description": "Built a website where customers buy and sell video games.",
+        "link": "https://gameskart.000webhostapp.com/index/popup",
+        "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Gameskart",
+        "techStack": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "PHP"
+        ]
+      }
+    ],
+    "navLinks": [
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ],
+    "coreSkills": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "Angular",
+      "React",
+      "Redux",
+      "Next.js",
+      "Node.js",
+      "Java",
+      "Springboot",
+      "SQL"
+    ],
+    "colorPalette": [
+      "#fac213",
+      "#5CDB95",
+      "#F47C7C",
+      "#FF6363",
+      "#76BA99",
+      "#FF7396",
+      "#3AB0FF",
+      "#FF9F29",
+      "#FFBA93",
+      "#9EB23B",
+      "#FFC54D",
+      "#EC9B3B",
+      "#3BACB6",
+      "#F9D923",
+      "#EB5353",
+      "#FF5F00",
+      "#B09B71",
+      "#92B4EC"
+    ]
+  }
+}

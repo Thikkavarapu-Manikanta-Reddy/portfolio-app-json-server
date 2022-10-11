@@ -65,7 +65,7 @@
       "Class bridge": {
         "title": "Front End Engineer",
         "company": "Class bridge",
-        "url": "https://classbridge.herokuapp.com/",
+        "url": "https://classbridge.vercel.app/",
         "dateRange": "August 2019 - December 2019",
         "data": [
           "Class Bridge was a 3 people engineering team and has engineered Online Institution Management Portal.",
@@ -107,7 +107,7 @@
       {
         "title": "Class bridge",
         "description": "It's an Online Institution Management Portal. Some of its main features like creating institutes, classes and sections, teachers, students, exams, scheduling exams, timetables, live chat, and conducting online classes.",
-        "link": "https://classbridge.herokuapp.com/",
+        "link": "https://classbridge.vercel.app/",
         "techStack": [
           "React",
           "CSS",
@@ -117,7 +117,7 @@
       {
         "title": "Splitter",
         "description": "Built a website where splitting of expenses among groups of individuals can be done in an easier fashion.",
-        "link": "https://splitters.herokuapp.com/",
+        "link": "https://splitters.vercel.app/",
         "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Splitter",
         "techStack": [
           "Angular",
@@ -128,7 +128,7 @@
       {
         "title": "Website for Google Developer Student Club @ SASTRA (DSC)",
         "description": "Built a website for the Developer student club (DSC) of my university.",
-        "link": "https://dsc-sastra.herokuapp.com/",
+        "link": "https://dsc-sastra.vercel.app/",
         "techStack": [
           "React",
           "CSS",
@@ -138,7 +138,7 @@
       {
         "title": "Exam Automata",
         "description": "Built a website where anyone can host and conduct exams online and it’s still currently being used by some of the colleges in India like SASTRA, LPU, etc.",
-        "link": "https://examautomata.herokuapp.com/",
+        "link": "https://examautomata.vercel.app/",
         "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/examauto",
         "techStack": [
           "Angular",

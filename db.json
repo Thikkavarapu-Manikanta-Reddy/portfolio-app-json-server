@@ -188,9 +188,11 @@
       "Redux",
       "Next.js",
       "Node.js",
+      "Express",
       "Java",
       "Springboot",
-      "SQL"
+      "SQL",
+      "NoSQL"
     ],
     "colorPalette": [
       "#fac213",

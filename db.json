@@ -105,6 +105,17 @@
     },
     "projects": [
       {
+        "title": "Event Ding",
+        "description": "Built a next-generation community website for students to connect, discover and reach their full potential.",
+        "link": "https://eventding.vercel.app/",
+        "techStack": [
+          "Mongo",
+          "Express",
+          "React",
+          "Nodejs"
+        ]
+      },
+      {
         "title": "Class bridge",
         "description": "It's an Online Institution Management Portal. Some of its main features like creating institutes, classes and sections, teachers, students, exams, scheduling exams, timetables, live chat, and conducting online classes.",
         "link": "https://classbridge.vercel.app/",

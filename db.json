@@ -44,7 +44,7 @@
         "dateRange": "January 2022 - August 2022",
         "data": [
           "Worked on building India’s largest ecommerce marketplace web application.",
-          "Created our own custom e-commerce theme web app by using one of the existing theme web apps provided by a platform in one of the subsidiary e-commerce companies."
+          "Created our own custom e-commerce theme web app by using one of the existing theme web apps provided by one of the subsidiary e-commerce company's platform."
         ]
       },
       "Ninjacart": {
@@ -54,12 +54,12 @@
         "dateRange": "January 2020 - January 2022",
         "data": [
           "Built 8 responsive web apps, specifically, mobile view web apps, and integrated them with the mobile SDKs which will make the web apps behave like android applications.",
-          "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and ReactJs.",
+          "Configured 12 front-end modules and added numerous web optimization strategies to these modules to further boost application performance by 20%.",
           "Single-handedly developed Angular microservice where multiple roles of employees can communicate with each other, some of its main features like posting notifications as well as offering training activities for various employees.",
+          "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and ReactJs.",
           "Introduced a Live tracking feature in the already existing AppManagement UI, where we can track the live moment of the people.",
           "Functioned as a UI developer on newly started B2C flows where will be supplying the vegetables, groceries directly to the customers home instead of CC’s, FC’s, MDC’s, MMDC’s.",
-          "Served as a Backend developer on one of the features in AppManagement microservice where we can move the mapped users between different app versions.",
-          "Configured 12 front-end modules and added numerous web optimization strategies to these modules to further boost application performance by 20%."
+          "Served as a Backend developer on one of the features in AppManagement microservice where we can move the mapped users between different app versions."
         ]
       },
       "Class bridge": {
@@ -90,7 +90,7 @@
         "url": "https://www.virtusa.com/",
         "dateRange": "November 2018 - December 2018",
         "data": [
-          "Handled both frontend (Angular) and backend (SpringBoot), where I converted 1 old user interface and a few APIs to new ones."
+          "Handled both frontend (Angular) and backend (SpringBoot), where converted 1 old user interface and a few APIs to new ones."
         ]
       },
       "Legal Education Awareness Foundation": {
@@ -107,7 +107,7 @@
     "projects": [
       {
         "title": "Event Ding",
-        "description": "Built a next-generation community website for students to connect, discover and reach their full potential.",
+        "description": "Engineered a next-generation community website for students to connect, discover and reach their full potential.",
         "link": "https://eventding.vercel.app/",
         "techStack": [
           "Mongo",
@@ -139,7 +139,7 @@
       },
       {
         "title": "Website for Google Developer Student Club @ SASTRA (DSC)",
-        "description": "Created a website for the Developer student club (DSC) of my undergraduate university.",
+        "description": "Programmed a website for the Developer student club (DSC) of my undergraduate university.",
         "link": "https://dsc-sastra.vercel.app/",
         "techStack": [
           "React",

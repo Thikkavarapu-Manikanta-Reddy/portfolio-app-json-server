@@ -43,8 +43,9 @@
         "url": "https://www.jio.com/platforms",
         "dateRange": "January 2022 - August 2022",
         "data": [
-          "Worked on building India’s largest ecommerce marketplace web application.",
-          "Created our own custom e-commerce theme web app by using one of the existing theme web apps provided by one of the subsidiary e-commerce company's platform."
+          "Worked on developing an e-commerce marketplace web app with a server-side rendering for faster page loads using Next.js.",
+          "Reduced the number of unnecessary API calls to the server from many to one during a search, click, and event tracking activity, resulting in a 10% improvement in web performance.",
+          "Interviewed 30 candidates for the Frontend Development position and oversaw a team of 6 employees in the development of the  e-commerce marketplace web app"
         ]
       },
       "Ninjacart": {
@@ -55,8 +56,8 @@
         "data": [
           "Built 8 responsive web apps, specifically, mobile view web apps, and integrated them with the mobile SDKs which will make the web apps behave like android applications.",
           "Configured 12 front-end modules and added numerous web optimization strategies to these modules to further boost application performance by 20%.",
-          "Single-handedly developed Angular microservice where multiple roles of employees can communicate with each other, some of its main features like posting notifications as well as offering training activities for various employees.",
-          "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and ReactJs.",
+          "Single-handedly developed Ninjacart’s Communication service using Angular, enabling multiple employee roles to communicate with each other seamlessly. Some of its main features include notification posting and employee training activities.",
+          "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and React.js.",
           "Introduced a Live tracking feature in the already existing AppManagement UI, where we can track the live moment of the people.",
           "Functioned as a UI developer on newly started B2C flows where will be supplying the vegetables, groceries directly to the customers home instead of CC’s, FC’s, MDC’s, MMDC’s.",
           "Served as a Backend developer on one of the features in AppManagement microservice where we can move the mapped users between different app versions."
@@ -69,7 +70,7 @@
         "dateRange": "April 2020 - August 2020",
         "data": [
           "Class Bridge was a 3 people engineering team and has engineered Online Institution Management Portal.",
-          "Performed as an only Frontend developer where I developed 20 UI-rich modules that helped students, teachers, and institute managers across a few schools and colleges in India.",
+          "Performed as an only Frontend developer and developed 20 UI-rich modules that helped students, teachers, and institute managers across a few schools and colleges in India.",
           "Some of its main features like creating institutes, classes and sections, teachers, students, exams, scheduling exams, timetables, live chat, and conducting online classes."
         ]
       },
@@ -110,10 +111,10 @@
         "description": "Engineered a next-generation community website for students to connect, discover and reach their full potential.",
         "link": "https://eventding.vercel.app/",
         "techStack": [
-          "Mongo",
-          "Express",
-          "React",
-          "Nodejs"
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js"
         ]
       },
       {
@@ -124,7 +125,7 @@
         "techStack": [
           "Angular",
           "CSS",
-          "Nodejs"
+          "Node.js"
         ]
       },
       {
@@ -132,9 +133,9 @@
         "description": "It's an Online School Management Portal. Some of its main features like creating institutes, classes and sections, teachers, students, exams, scheduling exams, timetables, live chat, and conducting online classes.",
         "link": "https://classbridge.vercel.app/",
         "techStack": [
-          "React",
+          "React.js",
           "CSS",
-          "Nodejs"
+          "Node.js"
         ]
       },
       {
@@ -142,9 +143,9 @@
         "description": "Programmed a website for the Developer student club (DSC) of my undergraduate university.",
         "link": "https://dsc-sastra.vercel.app/",
         "techStack": [
-          "React",
+          "React.js",
           "CSS",
-          "Nodejs"
+          "Node.js"
         ]
       },
       {
@@ -156,7 +157,7 @@
           "Angular",
           "CSS",
           "Firebase",
-          "Nodejs"
+          "Node.js"
         ]
       },
       {
@@ -197,11 +198,11 @@
       "Javascript",
       "Typescript",
       "Angular",
-      "React",
+      "React.js",
       "Redux",
       "Next.js",
       "Node.js",
-      "Express",
+      "Express.js",
       "Java",
       "Springboot",
       "SQL",

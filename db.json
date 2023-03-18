@@ -111,7 +111,7 @@
         "description": "Engineered a next-generation community website for students to connect, discover and reach their full potential.",
         "link": "https://eventding.vercel.app/",
         "techStack": [
-          "MongoDB",
+          "Mongo",
           "Express.js",
           "React.js",
           "Node.js"

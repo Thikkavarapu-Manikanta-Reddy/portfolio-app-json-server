@@ -44,8 +44,8 @@
         "dateRange": "January 2022 - August 2022",
         "data": [
           "Worked on developing an e-commerce marketplace web app with a server-side rendering for faster page loads using Next.js.",
-          "Reduced the number of unnecessary API calls to the server from many to one during a search, click, and event tracking activity, resulting in a 10% improvement in web performance.",
-          "Interviewed 30 candidates for the Frontend Development position and oversaw a team of 6 employees in the development of the  e-commerce marketplace web app"
+          "Reduced the number of unnecessary API calls to the server from many to one during a search, click, and event tracking activity, resulting in a 10% improvement in web performance of the company’s multiple web apps.",
+          "Oversaw a team of 6 employees in revamping the company’s customer onboarding web app with React.js, Node.js, and Express.js."
         ]
       },
       "Ninjacart": {
@@ -54,8 +54,8 @@
         "url": "https://www.ninjacart.in/",
         "dateRange": "January 2020 - January 2022",
         "data": [
-          "Built 8 responsive web apps, specifically, mobile view web apps, and integrated them with the mobile SDKs which will make the web apps behave like android applications.",
-          "Configured 12 front-end modules and added numerous web optimization strategies to these modules to further boost application performance by 20%.",
+          "Built 8 responsive web apps, including the Angular WebView apps, enabling me to leverage a variety of mobile device functionalities.",
+          "Configured 12 front-end modules and added numerous web optimization strategies to further boost applications performance by 20%.",
           "Single-handedly developed Ninjacart’s Communication service using Angular, enabling multiple employee roles to communicate with each other seamlessly. Some of its main features include notification posting and employee training activities.",
           "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and React.js.",
           "Introduced a Live tracking feature in the already existing AppManagement UI, where we can track the live moment of the people.",
@@ -69,7 +69,7 @@
         "url": "https://classbridge.vercel.app/",
         "dateRange": "April 2020 - August 2020",
         "data": [
-          "Class Bridge was a 3 people engineering team and has engineered Online Institution Management Portal.",
+          "Class Bridge was a 3 people engineering team and has engineered Online Institution Management Portal using React.js.",
           "Performed as an only Frontend developer and developed 20 UI-rich modules that helped students, teachers, and institute managers across a few schools and colleges in India.",
           "Some of its main features like creating institutes, classes and sections, teachers, students, exams, scheduling exams, timetables, live chat, and conducting online classes."
         ]
@@ -80,9 +80,9 @@
         "url": "https://www.ninjacart.in/",
         "dateRange": "May 2019 - July 2019",
         "data": [
-          "Solely developed UI for a microservice for managing different builds(versions) of mobile applications in people's mobile phones across different cities, facilities, and store levels.",
+          "Solely developed a UI microservice called AppManagement from scratch using Angular for managing different builds (versions) of mobile applications in people's mobile phones across different cities, facilities, and store levels.",
           "More than 12,000 users across 10 cities have been using this application for managing android app versions and more features.",
-          "These are some of its main features like releasing the apps, mapping users across different facilities, downloading the apps, checking the user-app-related details."
+          "Some of its primary features include app release, mapping users across multiple facilities, app download, and reviewing user-app-related details."
         ]
       },
       "Virtusa": {
@@ -101,14 +101,14 @@
         "dateRange": "May 2018 - June 2018",
         "data": [
           "Worked as a Remote Intern on the frontend side of the responsive websites.",
-          "Involved in creating a consultancy and olympiad website for conducting olympiad exams for the students and both sites are hosted in Godaddy."
+          "Involved in the creation of a consulting and olympiad website for the purpose of conducting olympiad exams for students, both of which are hosted by Godaddy."
         ]
       }
     },
     "projects": [
       {
         "title": "Event Ding",
-        "description": "Engineered a next-generation community website for students to connect, discover and reach their full potential.",
+        "description": "Engineered a next-generation community website to help students connect, discover, and realize their full potential.",
         "link": "https://eventding.vercel.app/",
         "techStack": [
           "Mongo",
@@ -140,7 +140,7 @@
       },
       {
         "title": "Website for Google Developer Student Club @ SASTRA (DSC)",
-        "description": "Programmed a website for the Developer student club (DSC) of my undergraduate university.",
+        "description": "Programmed a website for my undergraduate university's Developer Student Club (DSC).",
         "link": "https://dsc-sastra.vercel.app/",
         "techStack": [
           "React.js",
@@ -150,7 +150,7 @@
       },
       {
         "title": "Exam Automata",
-        "description": "Worked on a website that anyone may use to host and administer exams online.",
+        "description": "Created a website that anyone can use to host and administer online exams.",
         "link": "https://examautomata.vercel.app/",
         "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/examauto",
         "techStack": [
@@ -162,7 +162,7 @@
       },
       {
         "title": "Gamestore",
-        "description": "Built a website where customers buy and sell video games.",
+        "description": "Built a website where people can buy and sell video games.",
         "link": "https://gameskarts.000webhostapp.com/index/popup",
         "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Gameskart",
         "techStack": [

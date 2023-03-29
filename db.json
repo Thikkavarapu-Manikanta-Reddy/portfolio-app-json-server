@@ -43,9 +43,8 @@
         "url": "https://www.jio.com/platforms",
         "dateRange": "January 2022 - August 2022",
         "data": [
-          "Worked on developing an e-commerce marketplace web app with a server-side rendering for faster page loads using Next.js.",
-          "Reduced the number of unnecessary API calls to the server from many to one during a search, click, and event tracking activity, resulting in a 10% improvement in web performance of the company’s multiple web apps.",
-          "Oversaw a team of 6 employees in revamping the company’s customer onboarding web app with React.js, Node.js, and Express.js."
+          "Worked with and oversaw a team of 6 employees on developing an e-commerce marketplace web app with a server-side rendering for faster page loads using Next.js, Node.js, and Express.js.",
+          "Reduced the number of unnecessary API calls to the server from many to one during a search, click, and event tracking activity, resulting in a 10% improvement in web performance of the company’s multiple web apps."
         ]
       },
       "Ninjacart": {

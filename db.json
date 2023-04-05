@@ -37,10 +37,10 @@
       }
     ],
     "experience": {
-      "Jio Platforms Limited": {
+      "Reliance Retail Limited": {
         "title": "Software Engineer",
-        "company": "Jio Platforms Limited",
-        "url": "https://www.jio.com/platforms",
+        "company": "Reliance Retail Limited",
+        "url": "https://relianceretail.com",
         "dateRange": "January 2022 - August 2022",
         "data": [
           "Worked with and oversaw a team of 6 employees on developing an e-commerce marketplace web app using Next.js, Node.js, and Express.js for faster page loads.",

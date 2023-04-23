@@ -110,7 +110,7 @@
         "description": "Engineered a next-generation event hosting website allowing Northeastern University administrators and students to host and book events.",
         "link": "https://eventding.vercel.app/",
         "techStack": [
-          "Mongo",
+          "MongoDB",
           "Express.js",
           "React.js",
           "Node.js"

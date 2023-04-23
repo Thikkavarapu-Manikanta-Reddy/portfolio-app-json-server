@@ -107,7 +107,7 @@
     "projects": [
       {
         "title": "Event Ding",
-        "description": "Engineered a next-generation community website to help students connect, discover, and realize their full potential.",
+        "description": "Engineered a next-generation event hosting website allowing Northeastern University administrators and students to host and book events.",
         "link": "https://eventding.vercel.app/",
         "techStack": [
           "Mongo",
@@ -228,6 +228,6 @@
       "#92B4EC"
     ],
     "resume":  {
-      "link": "https://l.linklyhq.com/l/1k4o3"
+      "link": "https://l.linklyhq.com/l/1k4vI"
     }
 }

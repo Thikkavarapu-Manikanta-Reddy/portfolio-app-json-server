@@ -37,6 +37,26 @@
       }
     ],
     "experience": {
+      "Northeastern University - RA": {
+        "title": "Frontend Developer - Research Assistant",
+        "company": "Northeastern University - RA",
+        "url": "https://www.northeastern.edu/",
+        "dateRange": "April 2023 - Present",
+        "data": [
+          "Working on incorporating the SurveyJs Form library into Home Assistant, an open-source home automation software, to collect information about thermostat use from home users and gather data on temperature and thermostat settings over time.",
+          "Researchers will use this data to determine how much people are willing to adjust their thermostat settings during times of high power grid demand without sacrificing comfort. The goal is to promote energy efficiency and encourage more flexible thermostat use.",
+          "Skills: HTML, CSS, Javascript, JQuery, Web Components, Lit library, Docker, SurveyJs, and Home Assistant."
+        ]
+      },
+      "Northeastern University": {
+        "title": "Frontend Developer",
+        "company": "Northeastern University",
+        "url": "https://www.northeastern.edu/",
+        "dateRange": "February 2023 - March 2023",
+        "data": [
+          "Developed a React.js portfolio web application for a professor with an automated CI/CD pipeline to deploy changes to the Google Cloud Platform using GitHub Actions and Node.js."
+        ]
+      },
       "Reliance Retail Limited": {
         "title": "Software Engineer",
         "company": "Reliance Retail Limited",
@@ -63,7 +83,7 @@
         ]
       },
       "Class bridge": {
-        "title": "Front End Engineer",
+        "title": "Frontend Engineer",
         "company": "Class bridge",
         "url": "https://classbridge.vercel.app/",
         "dateRange": "April 2020 - August 2020",
@@ -228,6 +248,6 @@
       "#92B4EC"
     ],
     "resume":  {
-      "link": "https://l.linklyhq.com/l/1k4vI"
+      "link": "https://l.linklyhq.com/l/1mCKv"
     }
 }

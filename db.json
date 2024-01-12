@@ -53,7 +53,7 @@
         "url": "https://www.northeastern.edu/",
         "dateRange": "April 2023 - August 2023",
         "data": [
-          "Working on incorporating the SurveyJs Form library into Home Assistant, an open-source home automation software, to collect information about thermostat use from home users and gather data on temperature and thermostat settings over time.",
+          "Worked on incorporating the SurveyJs Form library into Home Assistant, an open-source home automation software, to collect information about thermostat use from home users and gather data on temperature and thermostat settings over time.",
           "Researchers will use this data to determine how much people are willing to adjust their thermostat settings during times of high power grid demand without sacrificing comfort. The goal is to promote energy efficiency and encourage more flexible thermostat use.",
           "Skills: HTML, CSS, Javascript, JQuery, Web Components, Lit library, Docker, SurveyJs, and Home Assistant."
         ]

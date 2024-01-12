@@ -41,9 +41,9 @@
         "title": "Software Development Engineer Intern",
         "company": "Tesla",
         "url": "https://www.tesla.com",
-        "dateRange": "August 2023 - Present",
+        "dateRange": "August 2023 - January 2024",
         "data": [
-          "Contributing to the development of software utilized globally across Tesla's Gigafactories on the Factory Software Team using Angular, React.js, Next.js, Go, MySQL, Docker and Kubernetes.",
+          "Contributed to the development of software utilized globally across Tesla's Gigafactories on the Factory Software Team using Angular, React.js, Next.js, Go, MySQL, Docker and Kubernetes.",
           "Migrated the factory streaming app from React.js to Next.js and implemented new features in core factory operations, subscription management, and streaming portals."
         ]
       },

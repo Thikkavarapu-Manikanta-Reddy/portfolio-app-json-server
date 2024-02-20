@@ -43,8 +43,9 @@
         "url": "https://www.tesla.com",
         "dateRange": "August 2023 - January 2024",
         "data": [
-          "Contributed to the development of software utilized globally across Tesla's Gigafactories on the Factory Software Team using Angular, React.js, Next.js, Go, MySQL, Docker and Kubernetes.",
-          "Migrated the factory streaming app from React.js to Next.js, achieving a 98 Lighthouse score, and contributed to the implementation of new functionalities in core factory operations, subscription management, and streaming portals."
+          "Single-handedly led the frontend architectural migration of the core legacy factory streaming application from React.js to Next.js over a 8-week span, addressing tasks such as file-system based router, CSS Modules, API routes, and deployment pipelines, ultimately achieving a 98 Lighthouse score.",
+          "Enriched the legacy factory streaming application UI by integrating multiple UI improvement features and incorporating the Tesla Design System, an internal UI component library, resulting in a 50% increase in user satisfaction.",
+          "Resolved critical UI issues, and added backend tests for key features, resulting in a notable 30% reduction in post-deployment bug reports."
         ]
       },
       "Northeastern University - RA": {
@@ -236,7 +237,9 @@
       "Java",
       "Springboot",
       "SQL",
-      "NoSQL"
+      "NoSQL",
+      "Docker",
+      "Github Actions"
     ],
     "colorPalette": [
       "#fac213",
@@ -259,6 +262,6 @@
       "#92B4EC"
     ],
     "resume":  {
-      "link": "https://2ly.link/1vxZg"
+      "link": "https://2ly.link/1w6dC"
     }
 }

@@ -142,7 +142,6 @@
         "description": "Implemented a cloud-native application on GCP, utilizing Terraform for infrastructure, GitHub Actions for CI/CD, Packer for VM images, and Jest for integration test cases, ensuring robust functionality and scalability.",
         "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Cloud-Native-Application",
         "techStack": [
-          "CI/CD",
           "GCP",
           "Terraform",
           "Packer",
@@ -158,17 +157,6 @@
           "MongoDB",
           "Express.js",
           "React.js",
-          "Node.js"
-        ]
-      },
-      {
-        "title": "Splitter",
-        "description": "Constructed a website where splitting expenses among groups of individuals can be done in an easier fashion.",
-        "link": "https://splitters.vercel.app/",
-        "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Splitter",
-        "techStack": [
-          "Angular",
-          "CSS",
           "Node.js"
         ]
       },
@@ -201,6 +189,17 @@
           "Angular",
           "CSS",
           "Firebase",
+          "Node.js"
+        ]
+      },
+      {
+        "title": "Splitter",
+        "description": "Constructed a website where splitting expenses among groups of individuals can be done in an easier fashion.",
+        "link": "https://splitters.vercel.app/",
+        "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Splitter",
+        "techStack": [
+          "Angular",
+          "CSS",
           "Node.js"
         ]
       },

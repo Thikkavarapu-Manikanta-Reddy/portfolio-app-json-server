@@ -138,6 +138,19 @@
     },
     "projects": [
       {
+        "title": "Cloud-Native Application",
+        "description": "Implemented a cloud-native application on GCP, utilizing Terraform for infrastructure, GitHub Actions for CI/CD, Packer for VM images, and Jest for integration test cases, ensuring robust functionality and scalability.",
+        "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Cloud-Native-Application",
+        "techStack": [
+          "CI/CD",
+          "GCP",
+          "Terraform",
+          "Packer",
+          "Node.js",
+          "Express.js"
+        ]
+      },
+      {
         "title": "Event Ding",
         "description": "Engineered a next-generation event hosting website allowing Northeastern University administrators and students to host and book events.",
         "link": "https://eventding.vercel.app/",

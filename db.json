@@ -43,9 +43,10 @@
         "url": "https://www.tesla.com",
         "dateRange": "August 2023 - January 2024",
         "data": [
-          "Single-handedly led the frontend architectural migration of the core legacy factory streaming application from React.js to Next.js over a 8-week span, addressing tasks such as file-system based router, CSS Modules, API routes, and deployment pipelines, ultimately achieving a 98 Lighthouse score.",
-          "Enriched the legacy factory streaming application UI by integrating multiple UI improvement features and incorporating the Tesla Design System, an internal UI component library, resulting in a 50% increase in user satisfaction.",
-          "Resolved critical UI issues, and added backend tests for key features, resulting in a notable 30% reduction in post-deployment bug reports.",
+          "Single-handedly led the frontend architectural migration of the core legacy factory streaming application from React.js to Next.js over 8 weeks, implementing file-system based routing, CSS Modules, API routes, and deployment pipelines, achieving a 98 Lighthouse score.",
+          "Enhanced the UI of the legacy factory streaming application by integrating multiple UI improvement features, including the Tesla Design System, an internal UI component library, leading to a 50% increase in user satisfaction.",
+          "Transitioned from session-based to JWT authentication, significantly enhancing performance and reducing server load by 40%.",
+          "Resolved critical UI issues, implemented backend APIs in Go, and introduced tests, resulting in a 30% reduction in post-deployment bug reports.",
           "Skills: React.js, Next.js, Angular, Typescript, Node.js, Webpack, WebSocket, Go, MySQL, Docker, Github Actions, Jenkins, and Kubernetes."
         ]
       },
@@ -55,9 +56,9 @@
         "url": "https://www.northeastern.edu/",
         "dateRange": "April 2023 - August 2023",
         "data": [
-          "Worked on incorporating the SurveyJs Form library into Home Assistant, an open-source home automation software, to collect information about thermostat use from home users and gather data on temperature and thermostat settings over time.",
+          "Integrated the SurveyJS Form library into Home Assistant, an open-source home automation software, using HTML, CSS, JavaScript, jQuery, Web Components, Webpack, Lit library, and SurveyJS to collect data on thermostat use and settings from home users.",
           "Researchers will use this data to determine how much people are willing to adjust their thermostat settings during times of high power grid demand without sacrificing comfort. The goal is to promote energy efficiency and encourage more flexible thermostat use.",
-          "Skills: HTML, CSS, Javascript, JQuery, Web Components, Lit library, Docker, SurveyJs, and Home Assistant."
+          "Skills: HTML, CSS, Javascript, JQuery, Web Components, Webpack, Lit library, Docker, SurveyJs, and Home Assistant."
         ]
       },
       "Northeastern University": {
@@ -76,7 +77,7 @@
         "dateRange": "January 2022 - August 2022",
         "data": [
           "Worked with and oversaw a team of 6 employees on developing an e-commerce marketplace web app using Next.js, Node.js, and Express.js for faster page loads.",
-          "Reduced the number of unnecessary API calls to the server from many to one during a search, click, and event tracking activity, resulting in a 10% improvement in web performance of the company’s multiple web apps."
+          "Optimized web performance by reducing unnecessary API calls during search, click, and event tracking activities, resulting in a 10% improvement across multiple company web apps."
         ]
       },
       "Ninjacart": {
@@ -87,7 +88,7 @@
         "data": [
           "Built 8 responsive web apps, including the Angular WebView apps, enabling me to leverage a variety of mobile device functionalities.",
           "Configured 12 front-end modules and added numerous web optimization strategies to further boost applications performance by 20%.",
-          "Single-handedly developed Ninjacart’s Communication service using Angular, enabling multiple employee roles to communicate with each other seamlessly. Some of its main features include notification posting and employee training activities.",
+          "Spearheaded the development of Ninjacart’s Communication service using Angular, achieving a 30% improvement in internal communication efficiency through features like notification posting and employee training activities.",
           "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and React.js.",
           "Introduced a Live tracking feature in the already existing AppManagement UI, where we can track the live moment of the people.",
           "Functioned as a UI developer on newly started B2C flows where will be supplying the vegetables, groceries directly to the customers home instead of CC’s, FC’s, MDC’s, MMDC’s.",

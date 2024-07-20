@@ -51,7 +51,7 @@
         ]
       },
       "Northeastern University - RA": {
-        "title": "Frontend Developer - Research Assistant",
+        "title": "Frontend Developer",
         "company": "Northeastern University - RA",
         "url": "https://www.northeastern.edu/",
         "dateRange": "April 2023 - August 2023",
@@ -65,7 +65,7 @@
         "title": "Frontend Developer",
         "company": "Northeastern University",
         "url": "https://www.northeastern.edu/",
-        "dateRange": "February 2023 - March 2023",
+        "dateRange": "January 2023 - March 2023",
         "data": [
           "Developed a React.js portfolio web application for a professor with an automated CI/CD pipeline to deploy changes to the Google Cloud Platform using GitHub Actions and Node.js."
         ]

@@ -43,7 +43,7 @@
         "url": "https://www.tesla.com",
         "dateRange": "August 2023 - January 2024",
         "data": [
-          "Single-handedly led the frontend architectural migration of the core legacy factory streaming application from React.js to Next.js over 8 weeks, implementing file-system based routing, CSS Modules, API routes, and deployment pipelines, achieving a 98 Lighthouse score.",
+          "Led the frontend architectural migration of the core legacy factory streaming application from React.js to Next.js over 8 weeks, implementing file-system based routing, CSS Modules, API routes, and deployment pipelines, achieving a 98 Lighthouse score.",
           "Enhanced the UI of the legacy factory streaming application by integrating multiple UI improvement features, including the Tesla Design System, an internal UI component library, leading to a 50% increase in user satisfaction.",
           "Transitioned the factory operation subscription portal's authentication from session-based to JWT, achieving a significant enhancement of performance, a 40% reduction in server load, and enhanced scalability across the application infrastructure.",
           "Resolved critical UI issues, implemented RESTful APIs in Go, and introduced tests, resulting in a 30% reduction in post-deployment bug reports.",

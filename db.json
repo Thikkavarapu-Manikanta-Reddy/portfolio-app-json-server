@@ -47,6 +47,7 @@
           "Enhanced the UI of the legacy factory streaming application by integrating multiple UI improvement features, including the Tesla Design System, an internal UI component library, leading to a 50% increase in user satisfaction.",
           "Transitioned the factory operation subscription portal's authentication from session-based to JWT, achieving a significant enhancement of performance, a 40% reduction in server load, and enhanced scalability across the application infrastructure.",
           "Resolved critical UI issues, implemented RESTful APIs in Go, and introduced tests, resulting in a 30% reduction in post-deployment bug reports.",
+          "Collaborated with the DevOps team to implement Kubernetes for orchestration and Docker for containerization, enhancing deployment and scalability",
           "Skills: React.js, Next.js, Angular, Typescript, Node.js, Webpack, WebSocket, Go, MySQL, Docker, Github Actions, Jenkins, and Kubernetes."
         ]
       },
@@ -76,7 +77,7 @@
         "url": "https://relianceretail.com",
         "dateRange": "January 2022 - August 2022",
         "data": [
-          "Worked with and oversaw a team of 6 employees to design and build an e-commerce marketplace web app using Next.js, Node.js, and Express, achieving significantly faster page loads and enhancing user experience.",
+          "Worked with and oversaw a team of 6 employees to design and build an e-commerce marketplace web app using Next.js, Node.js, Express, and MySQL achieving significantly faster page loads and enhancing user experience.",
           "Optimized web performance significantly by strategically reducing unnecessary API calls during search, click, and event tracking activities, resulting in a notable 10% improvement across multiple company web applications.",
           "Assisted in developing a highly responsive MERN stack application for Jiomart’s premium store with Redux, ensuring cross-browser compatibility, and implementing comprehensive test coverage using Jest and React Testing Library."
         ]
@@ -88,7 +89,7 @@
         "dateRange": "January 2020 - January 2022",
         "data": [
           "Configured and implemented 8 Angular applications, optimizing web strategies to achieve a 20% performance enhancement across the applications.",
-          "Spearheaded the development of Ninjacart’s Communication service using Angular, achieving a 30% improvement in internal communication efficiency through features like notification posting and employee training activities.",
+          "Spearheaded the development of Ninjacart’s Communication service using Angular, Spring Boot, and MongoDB, achieving a 30% improvement in internal communication efficiency through features like notification posting and employee training activities.",
           "Built and launched multiple Angular PWAs featuring service workers and offline caching, resulting in a 30% increase in user engagement and reducing dependency on network connectivity by enabling seamless offline access to content.",
           "Contributed to 'Ninja Web Modules' by integrating custom Angular components like ninja-autocomplete, ninja-button, and over 20 others, ensuring consistent application branding and enhancing user experience with tailored functionalities and responsive design.",
           "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and React.js.",

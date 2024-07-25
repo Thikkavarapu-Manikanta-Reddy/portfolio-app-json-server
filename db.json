@@ -51,24 +51,17 @@
           "Skills: React.js, Next.js, Angular, Typescript, Node.js, Webpack, WebSocket, Go, MySQL, Docker, Github Actions, Jenkins, and Kubernetes."
         ]
       },
-      "Northeastern University - RA": {
-        "title": "Frontend Developer",
-        "company": "Northeastern University - RA",
-        "url": "https://www.northeastern.edu/",
-        "dateRange": "April 2023 - August 2023",
-        "data": [
-          "Integrated the SurveyJS Form library into Home Assistant, an open-source home automation software, using HTML, CSS, JavaScript, jQuery, Web Components, Webpack, Lit library, and SurveyJS to collect data on thermostat use and settings from home users.",
-          "Researchers will use this data to determine how much people are willing to adjust their thermostat settings during times of high power grid demand without sacrificing comfort. The goal is to promote energy efficiency and encourage more flexible thermostat use.",
-          "Skills: HTML, CSS, Javascript, JQuery, Web Components, Webpack, Lit library, Docker, SurveyJs, and Home Assistant."
-        ]
-      },
       "Northeastern University": {
         "title": "Frontend Developer",
         "company": "Northeastern University",
         "url": "https://www.northeastern.edu/",
-        "dateRange": "January 2023 - March 2023",
+        "dateRange": "January 2023 - August 2023",
         "data": [
-          "Developed a React.js portfolio web application for a professor with an automated CI/CD pipeline to deploy changes to the Google Cloud Platform using GitHub Actions and Node.js."
+          "Integrated the SurveyJS Form library into Home Assistant, an open-source home automation software, using HTML, CSS, JavaScript, jQuery, Web Components, Webpack, Lit library, and SurveyJS to collect data on thermostat use and settings from home users.",
+          "Researchers will use this data to determine how much people are willing to adjust their thermostat settings during times of high power grid demand without sacrificing comfort. The goal is to promote energy efficiency and encourage more flexible thermostat use.",
+          "Conducted testing with 25 households and created forms to analyze user behavior regarding thermostat usage in different climate conditions.",
+          "Developed a React.js portfolio web application for a professor with an automated CI/CD pipeline to deploy changes to the Google Cloud Platform using GitHub Actions and Node.js.",
+          "Skills: HTML, CSS, Javascript, JQuery, Web Components, Webpack, Lit library, Docker, SurveyJs, Home Assistant, GCP, GitHub Actions CI/CD, and Node.js "
         ]
       },
       "Reliance Retail Limited": {

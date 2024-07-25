@@ -203,7 +203,7 @@
       {
         "title": "Gamestore",
         "description": "Built a website where people can buy and sell video games.",
-        "link": "https://gameskarts.000webhostapp.com/index/popup",
+        "link": "https://gameskart-five.vercel.app/",
         "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/Gameskart",
         "techStack": [
           "HTML",

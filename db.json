@@ -68,7 +68,7 @@
         "title": "Software Engineer",
         "company": "Reliance Retail Limited",
         "url": "https://relianceretail.com",
-        "dateRange": "January 2022 - September 2022",
+        "dateRange": "January 2022 - August 2022",
         "data": [
           "Worked with and oversaw a team of 6 employees to design and build an e-commerce marketplace web app using Next.js, Node.js, Express, and MySQL achieving significantly faster page loads and enhancing user experience.",
           "Optimized web performance significantly by strategically reducing unnecessary API calls during search, click, and event tracking activities, resulting in a notable 10% improvement across multiple company web applications.",
@@ -79,7 +79,7 @@
         "title": "Software Engineer",
         "company": "Ninjacart",
         "url": "https://www.ninjacart.in/",
-        "dateRange": "January 2019 - January 2022",
+        "dateRange": "January 2020 - January 2022",
         "data": [
           "Configured and implemented 8 Angular applications, optimizing web strategies to achieve a 20% performance enhancement across the applications.",
           "Spearheaded the development of Ninjacart’s Communication service using Angular, Spring Boot, and MongoDB, achieving a 30% improvement in internal communication efficiency through features like notification posting and employee training activities.",

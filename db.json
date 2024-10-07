@@ -44,7 +44,7 @@
         "dateRange": "August 2023 - January 2024",
         "data": [
           "Led the frontend architectural migration of the core legacy factory streaming application from React.js to Next.js over 8 weeks, implementing file-system based routing, CSS Modules, API routes, and deployment pipelines, achieving a 98 Lighthouse score.",
-          "Enhanced the UI of the legacy factory streaming application by integrating multiple UI improvement features, including the Tesla Design System, an internal UI component library, leading to a 50% increase in user satisfaction.",
+          "Enhanced the UI of the legacy factory streaming application by integrating multiple UI improvement features using Tailwind CSS, including the Tesla Design System, an internal UI component library, leading to a 50% increase in user satisfaction.",
           "Transitioned the factory operation subscription portal's authentication from session-based to JWT, achieving a significant enhancement of performance, a 40% reduction in server load, and enhanced scalability across the application infrastructure.",
           "Resolved critical UI issues, implemented RESTful APIs in Go, and introduced tests, resulting in a 30% reduction in post-deployment bug reports.",
           "Collaborated with the DevOps team to implement Kubernetes for orchestration and Docker for containerization, enhancing deployment and scalability",
@@ -82,7 +82,7 @@
         "dateRange": "January 2020 - January 2022",
         "data": [
           "Configured and implemented 8 Angular applications, optimizing web strategies to achieve a 20% performance enhancement across the applications.",
-          "Spearheaded the development of Ninjacart’s Communication service using Angular, Spring Boot, and MongoDB, achieving a 30% improvement in internal communication efficiency through features like notification posting and employee training activities.",
+          "Spearheaded the development of Ninjacart’s Communication service using Angular, Bootstrap, Spring Boot, and MongoDB, achieving a 30% improvement in internal communication efficiency through features like notification posting and employee training activities.",
           "Built and launched multiple Angular PWAs featuring service workers and offline caching, resulting in a 30% increase in user engagement and reducing dependency on network connectivity by enabling seamless offline access to content.",
           "Contributed to 'Ninja Web Modules' by integrating custom Angular components like ninja-autocomplete, ninja-button, and over 20 others, ensuring consistent application branding and enhancing user experience with tailored functionalities and responsive design.",
           "Educated and conducted multiple hands-on workshops for 300 new employees regarding Core Javascript, Angular, and React.js.",
@@ -163,7 +163,7 @@
         "link": "https://classbridge.vercel.app/",
         "techStack": [
           "React.js",
-          "CSS",
+          "MaterialUI",
           "Node.js"
         ]
       },
@@ -184,7 +184,7 @@
         "githubLink": "https://github.com/Thikkavarapu-Manikanta-Reddy/examauto",
         "techStack": [
           "Angular",
-          "CSS",
+          "Bootstrap",
           "Firebase",
           "Node.js"
         ]
